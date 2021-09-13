@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5kjJia6Zc1B_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Appy_Jayson</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Appy_Jayson_ORG">
+    <organization identifier="Appy_Jayson_ORG">
+      <title>Appy_Jayson</title>
+      <item identifier="Appy_Jay1_SCO" isvisible="true" identifierref="__5kjJia6Zc1B_course_id_RES">
+        <title>Appy_Jayson</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5kjJia6Zc1B_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/69mpqlMoakV_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6jXd6YBpsl4_DX810_DY810_CX760_CY804.png" />
+      <file href="mobile/6EXaQbevlgP_P_108_85_288_326_DX262_DY262_CX155_CY175.png" />
+      <file href="mobile/6qOKcw7lSQl_DX1216_DY1216_CX1274_CY849.jpg" />
+      <file href="mobile/5XK6lvQi8WL_X_P_52_0_707_735_DX810_DY810_CX707_CY736.png" />
+      <file href="mobile/64402EiyT9P_RG_P_0_0_1920_1080_DX1440_DY1440_CX1508_CY849.jpg" />
+      <file href="mobile/5XK6lvQi8WL_X_P_52_0_707_735_DX810_DY810_CX533_CY554.png" />
+      <file href="mobile/6jXd6YBpsl4_DX810_DY810_CX704_CY745.png" />
+      <file href="mobile/6pgCgs78gd7_P_0_192_2048_589_DX1440_DY1440_CX1508_CY434.jpg" />
+      <file href="mobile/6jXd6YBpsl4_DX810_DY810_CX517_CY547.png" />
+      <file href="mobile/5XK6lvQi8WL_X_P_52_0_707_735_DX810_DY810_CX677_CY704.png" />
+      <file href="mobile/6qOKcw7lSQl_P_156_272_1066_1007_DX1216_DY1216_CX417_CY394.jpg" />
+      <file href="mobile/5XK8ue5WjzX_P_132_0_1015_958_DX500_DY500_CX417_CY394.jpg" />
+      <file href="mobile/6VCPqdEcPhB_P_0_0_1359_1280_DX564_DY564_CX418_CY394.jpg" />
+      <file href="mobile/6EEmhp8jzDZ_P_0_0_1920_1096_DX1440_DY1440_CX1509_CY862.jpg" />
+      <file href="mobile/6jXd6YBpsl4_DX810_DY810_CX462_CY489.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gozeopJOOo.js" />
+      <file href="html5/data/js/5k8lE9QSVHP.js" />
+      <file href="html5/data/js/5qGLw9NAZFw.js" />
+      <file href="html5/data/js/5zQ9zdI1bH4.js" />
+      <file href="html5/data/js/6A8JupZfL5u.js" />
+      <file href="html5/data/js/6GaBrfLZd7H.js" />
+      <file href="html5/data/js/6Jb4xBpiXKz.js" />
+      <file href="html5/data/js/6liyypyQtm2.js" />
+      <file href="html5/data/js/6mgW8s9ThYA.js" />
+      <file href="html5/data/js/6V601bioCQc.js" />
+      <file href="html5/data/js/6WPW84g8E67.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
